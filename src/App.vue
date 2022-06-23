@@ -2,12 +2,12 @@
 	<div>
 		<nav>
 			<router-link :class="{ active: $route.name === 'Home' }" to="/"
-				>Home</router-link
+				>Loja</router-link
 			>
 			<router-link
 				:class="{ active: $route.name === 'CartShopping' }"
 				to="/cart"
-				>Cart
+				>Seu Carrinho
 			</router-link>
 		</nav>
 		<router-view />
