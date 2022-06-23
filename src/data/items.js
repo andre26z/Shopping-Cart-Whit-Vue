@@ -1,3 +1,5 @@
+// https://my-json-server.typicode.com/andre26z/carrinhoapi/items
+
 const items = [
 	{
 		id: 1,

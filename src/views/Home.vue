@@ -18,7 +18,7 @@
 </template>
 
 <script>
-	// @ is an alias to /src
+	
 	import items from "../data/items.js";
 	import ProductSummaryCard from "../components/products/ProductSummaryCard.vue";
 	import ProductDescriptionDrawer from "../components/products/ProductDescriptionDrawer.vue";
