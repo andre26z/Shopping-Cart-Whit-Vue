@@ -1,6 +1,6 @@
 <template>
 	<div class="home">
-		<h1>Selecione os planos</h1>
+		<h1>Selecione seu plano</h1>
 		<ProductDescriptionDrawer
 			:product="product"
 			:active="active"
@@ -48,9 +48,24 @@
 </script>
 
 <style lang="scss">
+*{
+	font-family: sans-serif;
+	a {
+		color:rgb(49, 0, 224);
+	}
+	
+	 }
+
+	 body {
+		background-color: rgba(254, 252, 255, 0.815);
+		h1 {
+			color: rgb(49, 0, 224);
+		}
+	 }
 	.product-cards-container {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
+		// background-color: rgb(56, 44, 68);
 	}
 </style>

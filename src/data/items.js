@@ -1,4 +1,6 @@
-// https://my-json-server.typicode.com/andre26z/carrinhoapi/items
+const url = "https://my-json-server.typicode.com/andre26z/carrinhoapi/items";
+
+
 
 const items = [
 	{
@@ -29,3 +31,4 @@ const items = [
 ];
 
 export default items;
+

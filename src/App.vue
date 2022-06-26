@@ -49,7 +49,7 @@
 		font-size: 1.25rem;
 
 		&.active {
-			color: #526980;
+			color: #1100ff;
 		}
 	}
 	.text-center {
