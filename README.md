@@ -13,3 +13,4 @@ Veja a aplicação pelo endereço: http://localhost:8000/ <br>
 #Não esquecer do ponto final do comando docker build -t dockervue .
 
 Projeto feito com Vue.Js e Docker
+API FAKE: https://github.com/andre26z/carrinhoapi
