@@ -8,6 +8,6 @@ Dentro do terminal Vs Code ou pelo PowerShell como administrador copie e execute
 <strong> docker build -t dockervue .   </strong>        
 <strong> docker run -p 8000:80 -it --name dockervue dockervue </strong>
 
-Veja a site pelo endereço: http://localhost:8000/ <br>
+Veja a aplicação pelo endereço: http://localhost:8000/ <br>
 
 Projeto feito com Vue.Js e Docker
