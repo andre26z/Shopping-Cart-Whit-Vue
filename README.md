@@ -2,7 +2,7 @@
 
 Baixe os arquivos.
 Abra a pasta com o VSCODE
-Dentro do terminal Vs Code ou pelo PowerShell como administrador rode copie e execute as seguintes linhas:
+Dentro do terminal Vs Code ou pelo PowerShell como administrador copie e execute as seguintes linhas:
 
 <strong> cd shopping-cart </strong> <br>
 <strong> docker build -t dockervue .   </strong>        
