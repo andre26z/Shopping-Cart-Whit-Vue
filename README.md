@@ -10,4 +10,4 @@ Dentro do terminal Vs Code ou pelo PowerShell como administrador copie e execute
 
 Veja a site pelo endereço: http://localhost:8000/ <br>
 
-Este projeto usa Docker para permitir que todos as máquinas consigam usar.
+Projeto feito com Vue.Js e Docker
